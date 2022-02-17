@@ -8,7 +8,13 @@ Progressive Budget tracker application is a webapp that uses existing code, whic
 
 ## Tasks Completed
 
-
+1. Created basic repository with readme and Licensing file. 
+2. Intigrated given files over from class files, for starter code and added a models folder, with transaction.js file. 
+3. Added git ignore file, as well as created a service worker file to tell server what files to cache, and begin working on offline functionality.
+4. Added href manifest link to index.html file and a idb.js script file as well as a serviceworker script file tag to get file to post changes added while offline, to online version.
+5. Changed mongoose connection link to get project deployed to heroku. 
+6. Successfully deployed project to heroku. 
+7. Launched application in offline and online mode to test for errors, application is working as intended in both online and offline mode. 
 
 ## Installation 
 
@@ -28,3 +34,4 @@ Dexter Griffith
 
 ## References 
 
+1. https://web.dev/offline-cookbook/#cache-falling-back-to-network
