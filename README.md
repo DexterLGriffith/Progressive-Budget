@@ -35,3 +35,9 @@ Dexter Griffith
 ## References 
 
 1. https://web.dev/offline-cookbook/#cache-falling-back-to-network
+2. https://smu.bootcampcontent.com/SMU-Coding-Bootcamp/smu-dal-fsf-pt-07-2021-u-c/-/tree/master/19-PWA/01-Activities/10-Ins_Service_Workers
+3. https://smu.bootcampcontent.com/SMU-Coding-Bootcamp/smu-dal-fsf-pt-07-2021-u-c/-/tree/master/19-PWA/01-Activities/08-Ins_Manifest
+4. https://smu.bootcampcontent.com/SMU-Coding-Bootcamp/smu-dal-fsf-pt-07-2021-u-c/-/tree/master/19-PWA/01-Activities/12-Ins_Caching_Fetching_Files
+5. https://developers.google.com/web/fundamentals/primers/service-workers
+6. https://developers.google.com/web/fundamentals/codelabs/offline
+7. https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/Offline_Service_workers
